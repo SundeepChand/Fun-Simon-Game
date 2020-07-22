@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Fun-Simon-Game/static/css/main.a9b3b256.chunk.css",
+    "main.js": "/Fun-Simon-Game/static/js/main.bb89d9e5.chunk.js",
+    "main.js.map": "/Fun-Simon-Game/static/js/main.bb89d9e5.chunk.js.map",
+    "runtime-main.js": "/Fun-Simon-Game/static/js/runtime-main.140bdd36.js",
+    "runtime-main.js.map": "/Fun-Simon-Game/static/js/runtime-main.140bdd36.js.map",
+    "static/js/2.46850058.chunk.js": "/Fun-Simon-Game/static/js/2.46850058.chunk.js",
+    "static/js/2.46850058.chunk.js.map": "/Fun-Simon-Game/static/js/2.46850058.chunk.js.map",
+    "static/js/3.cb40b0b4.chunk.js": "/Fun-Simon-Game/static/js/3.cb40b0b4.chunk.js",
+    "static/js/3.cb40b0b4.chunk.js.map": "/Fun-Simon-Game/static/js/3.cb40b0b4.chunk.js.map",
+    "index.html": "/Fun-Simon-Game/index.html",
+    "precache-manifest.141311482f1d4dba7d8f729200b231db.js": "/Fun-Simon-Game/precache-manifest.141311482f1d4dba7d8f729200b231db.js",
+    "service-worker.js": "/Fun-Simon-Game/service-worker.js",
+    "static/css/main.a9b3b256.chunk.css.map": "/Fun-Simon-Game/static/css/main.a9b3b256.chunk.css.map",
+    "static/js/2.46850058.chunk.js.LICENSE.txt": "/Fun-Simon-Game/static/js/2.46850058.chunk.js.LICENSE.txt",
+    "static/js/3.cb40b0b4.chunk.js.LICENSE.txt": "/Fun-Simon-Game/static/js/3.cb40b0b4.chunk.js.LICENSE.txt",
+    "static/media/1.mp3": "/Fun-Simon-Game/static/media/1.1704d352.mp3",
+    "static/media/2.mp3": "/Fun-Simon-Game/static/media/2.afdc303f.mp3",
+    "static/media/3.mp3": "/Fun-Simon-Game/static/media/3.edff8af4.mp3",
+    "static/media/4.mp3": "/Fun-Simon-Game/static/media/4.879d2195.mp3",
+    "static/media/GameOver.mp3": "/Fun-Simon-Game/static/media/GameOver.1ce68cdb.mp3",
+    "static/media/logo.png": "/Fun-Simon-Game/static/media/logo.9de44e83.png",
+    "static/media/music.mp3": "/Fun-Simon-Game/static/media/music.bab89d27.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.140bdd36.js",
+    "static/js/2.46850058.chunk.js",
+    "static/css/main.a9b3b256.chunk.css",
+    "static/js/main.bb89d9e5.chunk.js"
+  ]
+}
